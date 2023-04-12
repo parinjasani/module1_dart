@@ -16,5 +16,5 @@ void main()
   print("Name :- ${name}");
   print("Bithdate :- ${date}-${month}-${year}");
   print("Age :-${age}");
-  print("Address :-${address}");//print address
+  print("Address :-${address}");
 }
