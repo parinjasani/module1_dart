@@ -1,0 +1,23 @@
+What is inheritance?
+-->
+-Inheritance in dart is defined as the process in which one class derive the properties and characteristics of another class.
+It is helpful as it provides an ability with which we can create a new class from an existing class.
+
+-Inheritance is a major component of a programming paradigm known as OOPS (Object-Oriented Programming).
+
+-With the help of Inheritance, one class can make use of all the properties and characteristics of another class.
+
+-In general, two classes are required for inheritance and these mainly are −
+
+1)Parent class - A class that is inherited by the other class is known as the parent class. Sometimes, we also refer it to as the base class.
+
+2)Child class - A class that inherits the properties and characteristics of the parent class is known as child class.
+
+syntax :-
+class Childclass extends ParentClass {
+…
+}
+ types of the inheritance
+ 1)single
+ 2)multilevel
+ 3)hierachical
