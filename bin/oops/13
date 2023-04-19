@@ -1,0 +1,2 @@
+Can we pass an object of a subclass to a method expecting an object of the super class?
+Yes,we can pass that because subclass and superclass are related to each other by Inheritance which provides IS-A property.

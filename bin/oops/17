@@ -1,0 +1,2 @@
+How do you restrict a member of a class from inheriting by its sub classes?
+make it private or we can finaal it

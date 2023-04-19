@@ -1,0 +1,7 @@
+What is advantage of inheritance?
+The most important use of inheritance in Java is code reusability. The code that is present in the parent class can be directly used
+by the child class. Method overriding is also known as runtime polymorphism. Hence, we can achieve Polymorphism in Java with the help
+ of inheritance.
+ other advantage like
+organization
+polymorphism (overriding)

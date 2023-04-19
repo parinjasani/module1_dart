@@ -1,0 +1,2 @@
+ What happens if the parent and the child class have a field with same identifier?
+Sub class field will hide the Super class field. Hidden super class field in sub class can be accessed using super keyword.

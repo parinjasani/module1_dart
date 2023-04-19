@@ -1,0 +1,29 @@
+How do you implement multiple inheritance in Dart?
+using interface we can do this
+class Father
+{
+  disp()
+  {
+    print('i am father');
+  }
+}
+class Mother
+{
+  disp()
+  {
+    print('i am mother');
+  }
+}
+class Son implements Father,Mother
+{
+  void disp()
+  {
+    print('hello i am child class');
+  }
+}
+
+void main()
+{
+  var obj=new  Son();
+  obj.disp();
+}

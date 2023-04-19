@@ -1,0 +1,3 @@
+ Are constructors and initializers also inherited to sub classes?
+ Constructors are not members, so they are not inherited by subclasses, but the constructor of the superclass can be invoked
+ from the subclass.

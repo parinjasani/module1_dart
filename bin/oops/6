@@ -1,0 +1,3 @@
+What is the difference between the inheritance and polymorphism?
+Inheritance is essentially making a class, and then having other classes in your program get their feature form the already existing
+base class. However, polymorphism is an interface, and because of being an interface, it can take different shapes and forms.

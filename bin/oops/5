@@ -1,0 +1,4 @@
+Difference between inheritance and abstraction
+The main difference between abstraction and inheritance is that abstraction allows hiding the internal details and displaying only
+the functionality to the users, while inheritance allows using properties and methods of an already existing class.
+Object-Oriented Programming (OOP) is a major programming paradigm.

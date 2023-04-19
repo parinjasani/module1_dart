@@ -1,0 +1,4 @@
+Can an interface extend more than one interface in Dart?
+Dart has the ability to implement several interfaces. The keyword implements allows a class to adhere to multiple interfaces
+and increase an object's polymorphic range. The keyword implement is followed by an existing named class whose public fields
+then become implementation requirements for the current class.

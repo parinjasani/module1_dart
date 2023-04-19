@@ -1,0 +1,2 @@
+Can a class extend more than one class in Dart?
+no in dart we can not extend more than one class in one class because of the daimond case issue.
