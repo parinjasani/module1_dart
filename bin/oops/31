@@ -1,0 +1,3 @@
+ Explain Diamond problem.
+ The "diamond problem" (sometimes referred to as the "Deadly Diamond of Death") is an ambiguity that arises when two classes B
+ and C inherit from A, and class D inherits from both B and C.

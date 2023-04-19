@@ -1,0 +1,6 @@
+What are the rules of method overriding in Dart?
+methods are in different class
+same method name
+same parameter
+both are inheritated
+return type same(type of the method)

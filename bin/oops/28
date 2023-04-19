@@ -1,0 +1,2 @@
+Can a subclass instance method override a superclass static method?
+Static method cannot hide an instance method, and an instance method cannot override a static method.

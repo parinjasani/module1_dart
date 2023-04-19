@@ -1,1 +1,26 @@
  How do you override a private method in Dart?
+ class A {
+   String toString() => _p();
+   String _p() => 'A';
+ }
+
+ class B extends A {
+   String _p() => 'B';
+ }
+
+ void main() {
+   print(new A());
+   print(new B());
+ }
+2.
+class A {
+  int _foo () {
+    return 5;
+  }
+}
+class B extends A {
+  @override
+  int _foo() {
+    return super._foo() + 1;
+  }
+}

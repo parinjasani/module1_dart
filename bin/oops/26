@@ -1,0 +1,3 @@
+What happens when a class implements two interfaces and both declare field (variable) with
+same name?
+we have to overrride it into the class and give the value it once.

@@ -1,0 +1,4 @@
+ What is Encapsulation in Dart?
+ Data Encapsulation is binding data and functions that use data into one unit. It is also referred to as data hiding and information hiding.
+ for example
+ getter and setter methood
