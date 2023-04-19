@@ -11,7 +11,6 @@ class Customer {
 
 class Account {
   String acc_type,branch;
-
   Account(this.acc_type, this.branch);
 }
 
